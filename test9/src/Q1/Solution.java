@@ -1,4 +1,4 @@
-package test9.Q1;
+package Q1;
 
 import java.util.Arrays;
 

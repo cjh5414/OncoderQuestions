@@ -1,4 +1,4 @@
-package test9.Q4;
+package Q4;
 
 public class Solution{
     public int solution(String[] board){

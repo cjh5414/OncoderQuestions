@@ -1,4 +1,4 @@
-package test9.Q2;
+package Q2;
 
 public class Solution{
     public int solution(int N, int[] s){
